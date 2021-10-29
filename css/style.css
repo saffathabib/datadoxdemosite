@@ -199,6 +199,16 @@ h6 {
     font-weight: 700;
 }
 
+@media (max-width: 767px) {
+    #hero .hero-content h2 span {
+        color: #0a3455;
+        text-align: right;
+        font-size: 22px;
+        text-transform: uppercase;
+        font-weight: 700;
+    }
+}
+
 #hero .hero-content .btn-banner {
     background: #1ca1f1;
     border: 2px solid #1ca1f1;
@@ -315,7 +325,7 @@ h6 {
 
 #intro #intro-carousel .item {
     width: 100%;
-    height: 60vh;
+    height: auto;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
