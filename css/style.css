@@ -152,6 +152,7 @@ h6 {
     }
     #header #logo img {
         width: 50%;
+        height: auto;
     }
 }
 
@@ -578,6 +579,7 @@ Inner Banner
 ---------------------------------------------------*/
 
 #innerBanner {
+    margin-top: 10px;
     background: linear-gradient(45deg, #00b1e4 -132%, #0c2e8a 100%);
     padding: 40px 0;
     text-align: center;
