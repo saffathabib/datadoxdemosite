@@ -136,8 +136,8 @@ h6 {
 
 #header #logo img {
     padding: 0;
+    width: 50%;
     margin-top: -15px;
-    width: 200px;
     display: inline-block;
     float: left;
 }
