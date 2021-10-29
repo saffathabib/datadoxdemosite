@@ -151,7 +151,7 @@ h6 {
         font-size: 34px;
     }
     #header #logo img {
-        max-height: 40px;
+        width: 50%;
     }
 }
 
@@ -216,7 +216,6 @@ h6 {
     color: #0a3455;
     padding: 10px 25px;
     font-weight: bold;
-    width: 100%;
 }
 
 #hero .hero-content .btn-banner:hover {
