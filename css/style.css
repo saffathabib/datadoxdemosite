@@ -210,6 +210,17 @@ h6 {
     }
 }
 
+@media screen and (min-device-width: 100px) and (max-device-width: 450px) {
+    #hero .hero-content .btn-banner {
+    background: #1ca1f1;
+    border: 2px solid #1ca1f1;
+    border-radius: 30px;
+    color: #0a3455;
+    font-size: 10px;
+    font-weight: bold;
+    }
+}
+
 #hero .hero-content .btn-banner {
     background: #1ca1f1;
     border: 2px solid #1ca1f1;
